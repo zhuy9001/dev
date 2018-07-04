@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="com.zhuy.api.main" target="1.8" />
+      <module name="com.zhuy.api.test" target="1.8" />
+      <module name="com.zhuy.entity.main" target="1.8" />
+      <module name="com.zhuy.entity.test" target="1.8" />
+      <module name="com.zhuy.financial.main" target="1.8" />
+      <module name="com.zhuy.financial.test" target="1.8" />
+      <module name="com.zhuy.manager.main" target="1.8" />
+      <module name="com.zhuy.manager.test" target="1.8" />
+      <module name="com.zhuy.saller.main" target="1.8" />
+      <module name="com.zhuy.saller.test" target="1.8" />
+      <module name="com.zhuy.swagger.main" target="1.8" />
+      <module name="com.zhuy.swagger.test" target="1.8" />
+      <module name="com.zhuy.utils.main" target="1.8" />
+      <module name="com.zhuy.utils.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
